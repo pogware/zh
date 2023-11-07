@@ -1,0 +1,51 @@
+!!!DOWNLOAD STREAMLABS!!!
+!!!DOWNLOAD STREAMLABS!!!
+!!!DOWNLOAD STREAMLABS!!!
+!!!DOWNLOAD STREAMLABS!!!
+USB IS OPTIONAL BTW
+USB IS OPTIONAL BTW
+USB IS OPTIONAL BTW
+USB IS OPTIONAL BTW
+
+
+Generic requirements:
+Disable windows defender using Defender control: https://www.sordum.org/9480/defender-control-v2-1/
+Make sure windows is up to date.
+->
+ YOU NEED EVERY UPDATE INSTALLED + EVERY SECURTIY UPDATE, EVEN IF ONE IS MISSING THE CHEAT WILL NOT WORK! 
+
+!!!DOWNLOAD STREAMLABS!!!
+https://streamlabs.com/streamlabs-desktop/download?sdb=0
+IMPORTANT: Make sure to enable overlay in settings
+!!!DOWNLOAD STREAMLABS!!!
+
+ Intel requirments 
+Virtualizion: Enabled (BIOS)
+Windows Version 22H2
+Secure boot: Disabled (BIOS)
+Fast boot: Disabled (BIOS)
+CSM: Disabled (BIOS)
+TPM: Disabled (BIOS)
+
+  AMD requirements 
+SVM: Enabled
+NX MODE: Enabled
+Windows 10 22H2
+Secure boot: Disabled
+Fast boot: Disabled
+CSM: Disabled
+TPM: Disabled
+-------------------------------------------------------------
+Loader instructions:
+Once you have setup your PC to match the above requirments setup is simple.
+If you have not done so already, make a ticket in our discord to receive your custom loader.
+-Place loader on a USB DRIVE
+-Run the loader as admin and input your key : Your PC will automatically restart.
+-Once back in windows, OPEN STREAM LABS
+-Press overlay enable hotkey
+-access the USB DRIVE and run loader
+-The loader will now spoof and inject the cheat.
+-Once it says INJECTED . . REMOVE THE USB DRIVE
+Load tarkov and the cheat watermark will be visible in the top center saying: ZEROHOOK.DEV
+
+Menu key is insert. 
